@@ -1,0 +1,9 @@
+{
+    "name": "gxbdw/composer",
+    "type": "framework",
+    "require": {
+        "laravel/framework": "v4.0.0"
+    },
+    "license": "moit",
+    "minimum-stability": "beta"
+}
